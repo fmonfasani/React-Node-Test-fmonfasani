@@ -31,7 +31,7 @@ React & Node.js Technical Test Resolution - Complete Process
 Initial Configuration and Diagnostics:
 
 We started by installing all dependencies with npm install in the Server and Client folders, then attempted to launch both services. 
-The server started successfully on port 5001 but displayed "Database Not connected," while the frontend ran smoothly on port 3000. 
+The server started successfully on port 5001 but "Database is not connected" while the frontend ran smoothly on port 3000. 
 This immediately indicated that the problem lay with the database connectivity.
 
 Systematic Investigation with Grep:
